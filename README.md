@@ -1,2 +1,2 @@
 # Busca-em-profundidade
-Projeto criado no terceiro ano do curso de Ciência da computação
+Projeto criado com o instituito de realizar a busca em profundidade de um nó no colab
